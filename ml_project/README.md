@@ -1,5 +1,3 @@
-# ML project for ML in Production course
-
 ## Prerequisites
 
 * Python >= 3.8
