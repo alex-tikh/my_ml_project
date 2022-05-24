@@ -1,5 +1,3 @@
-## Ответы
-
 1) Развернул k8s в [Google Cloud](https://cloud.google.com/kubernetes-engine)
 2)  Задеплоил простое приложение (см. screenshot.png)
    
@@ -20,16 +18,4 @@
    
 5) online-inference-deployment-blue-green.yaml предпочтительнее т.к. все время будут поды,
 к которым можно обратиться
-   
-   
 
-## Самоанализ
-
-1) +5
-2) +4
-2a) +2
-3) +3
-4) +3
-5) +3
-
-**Итого: 20**

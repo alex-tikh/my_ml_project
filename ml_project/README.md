@@ -11,8 +11,7 @@
 ### For development
 
 ```bash
-git clone https://github.com/made-ml-in-prod-2021/alex-tikh.git
-git checkout homework1
+git clone https://github.com/alex-tikh/my_ml_project.git
 cd ml_project
 python -m venv .venv
 source .venv/bin/activate
@@ -22,8 +21,7 @@ pip install -r requirements.txt
 ### As package
 
 ```bash
-git clone https://github.com/made-ml-in-prod-2021/alex-tikh.git
-git checkout homework1
+git clone https://github.com/alex-tikh/my_ml_project.git
 cd ml_project
 python -m venv .venv
 source .venv/bin/activate
@@ -105,25 +103,3 @@ python3 src/predict_pipeline.py configs/lr_predict_config.yaml
 
 
 ------------
-
-## Самоанализ
-
-Не успел покрыть код тестами, остальное постарался сделать
-
--2)+1
-
--1) +0
-0) +2
-1) +2
-2) +2
-3) +2
-4) -
-5) -
-6) +3
-7) +3
-8) +3
-9) +3
-10) +3
-11) -
-12) -
-13) +1

@@ -9,8 +9,7 @@
 ### From GitHub
 
 ```bash
-git clone https://github.com/made-ml-in-prod-2021/alex-tikh.git
-git checkout homework2
+git clone https://github.com/alex-tikh/my_ml_project.git
 cd online_inference
 docker build -t alexandertikh/online_inference:v3 .
 ```
@@ -84,19 +83,3 @@ The [optimizations](https://hub.docker.com/r/alexandertikh/online_inference/tags
     └── requirements.txt               <- The requirements file for reproducing the environment.
 
 ------------
-
-## Самоанализ
-
-Не сделал только валидацию входных данных
-
-1) +3
-2) +3
-3) +2
-4) -
-5) +4
-6) +3
-7) +2
-8) +1
-9) +1
-
-**Итого: 19 баллов**
